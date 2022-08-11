@@ -1,0 +1,17 @@
+{
+  "name": "cryptocurrency-news-project",
+  "version": "1.0.0",
+  "description": "fetches Cryptocurrency market investment news",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Iftekhar Bin Aziz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
